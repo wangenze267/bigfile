@@ -14,3 +14,7 @@
 .uploader-container span{
     font-size: 60px;
 }
+
+.uploader-container video,img{
+    height: 100px;
+}
